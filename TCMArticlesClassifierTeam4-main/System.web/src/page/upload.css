@@ -1,0 +1,86 @@
+
+
+.title{
+
+    position: relative;
+    
+    top: 30px;
+    
+    font-size: 440%;
+    
+    text-align: center;
+    
+    font-weight: bold;
+    
+    }
+    
+    
+    
+    .logo{
+    
+    float: left;
+    
+    position: relative;
+    
+    top: 30px;
+    
+    left: 75px;
+    
+    
+    
+    }
+    
+    
+    
+    
+    .form{
+    
+    position: relative;
+    
+    width: 50%;
+    
+    margin-top: 30%;
+    
+    left: 630px;
+    
+    bottom: 325px;
+    
+    }
+    
+    
+    
+    
+    .button{
+    
+    position: relative;
+    
+    background-color: #62A755;
+    
+    font-family: "Arial", Times, serif;
+    
+    font-size: 220%;
+    
+    margin-left: 28.5%;
+    
+    width: 25%;
+    
+    height: 55px;
+    
+    left: 405px;
+    
+    bottom: 250px;
+    
+    }
+    
+    
+    
+    
+    .instruction{
+    
+    text-align: center;
+    
+    font-size: 10%;
+    
+    }
+    
+    
